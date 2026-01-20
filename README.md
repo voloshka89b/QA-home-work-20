@@ -1,1 +1,2 @@
-# QA-home-work-20-
+# QA-home-work-20
+We are learning Git
