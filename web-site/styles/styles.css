@@ -1,0 +1,28 @@
+.nav-link {
+    color: black;
+}
+
+.home {
+    background-image: url('../photo/ramka-betmen-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.title {
+    color:black ;
+    font-size: 50px ;
+    text-align: center;
+    font-style: oblique;
+    font-family:"Times New Roman",serif
+
+}
+.text{
+    color: black;
+    font-size: 20px;
+    text-indent: 30px;
+    text-align: justify;
+    font-style: oblique;
+    font-family:"Times New Roman"
+}
